@@ -46,7 +46,7 @@ class Directory extends React.Component{
           ]
 };
 }
-
+s
 
 render(){
     return(
