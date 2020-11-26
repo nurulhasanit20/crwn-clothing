@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The Project is Developed and Maintained By Nurul Hassan - https://nurulhassan.tech/
 ## Available Scripts
 
 In the project directory, you can run:
